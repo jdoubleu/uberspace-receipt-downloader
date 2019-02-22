@@ -22,3 +22,6 @@ See:
 Use on your own risk!
 
 This script might break in the future if Uberspace changes its accounting page.
+
+## License
+Unlicense, public domain (see [UNLICENSE](./UNLICENSE))
